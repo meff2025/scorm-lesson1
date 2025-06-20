@@ -1,0 +1,59 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+                      "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="fr">
+ <head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style type="text/css">html{position:fixed;height:100%;width:100%;overflow:hidden;}</style>
+  <title>Menaces et d&eacute;gradation des agrosyst&egrave;mes et des milieux naturels</title>
+  <script type="text/JavaScript">
+var scServices = {id:"mc5c016t"};
+window.scLoadParams = {destUri:"/co/ctx_item-b.html", pathToRoot:"", frameId:"mainFrame"};
+
+var scUrlToLoad = null;
+</script>
+  <script type="text/JavaScript" src="../lib-sc/scCoLib.js"></script>
+  <script type="text/JavaScript" src="../lib-md/s_scormMulti.js"></script>
+  <script type="text/JavaScript" src="../lib-md/s_annotSvc/annotSvc.js"></script>
+  <script type="text/JavaScript" src="../lib-md/s_lmsHack/lmsHack.js"></script>
+  <script type="text/JavaScript">
+// Paramétrage du service completionStorage :
+//   - "completed" SSi un score est affecté pour les assmntUa
+//   - pas de commit auto sur un changement de valeur
+scServices.completionStorage.getCurrentCompletionStatus = function(){
+	if(scServices.completionStorage._xIsAssmntUa){
+		if(scServices.scorm2k4 && scServices.scorm2k4.isScorm2k4Active()) {
+			var vApi = scServices.scorm2k4.getScorm2k4API();
+			return (vApi.GetValue("cmi.score.scaled")!=null && vApi.GetValue("cmi.score.scaled")!=="") ? "completed" : "incomplete" ;
+		} else if(scServices.scorm12 && scServices.scorm12.isScorm12Active()) {
+			var vApi = scServices.scorm12.getScorm12API();
+			return (vApi.LMSGetValue("cmi.core.score.raw")!=null && vApi.LMSGetValue("cmi.core.score.raw")!=="") ? "completed" : "incomplete" ;
+		}
+	}else
+		return "completed";
+}
+scServices.completionStorage._SendDataOnSave = false;
+
+// Paramétrage du service exitModeStorage:
+//   - pas de commit auto sur un changement de valeur
+scServices.exitModeStorage._SendDataOnTerminate = false;
+//   - exit : "suspend" quand le parcours du SCO n’est pas complet, et "" (terminé) quand le parcours du SCO est complet
+scServices.exitModeStorage.getExitMode = function(){
+	return scServices.completionStorage.getCurrentCompletionStatus()=="completed" ? "" : "suspend" ;
+}
+
+// Paramétrage du service suspendDataStorage :
+//   - pas de commit sur le changement de page des assmnts
+scServices.suspendDataStorage._SendDataOnSave=false
+
+// Paramétrage du service assmntMgr:
+//   - pas de commit sur le changement de page des assmnts
+scServices.assmntMgr._SendDataOnSave = false;
+scOnLoads[scOnLoads.length] = { onLoad: function(){ sc$("mainFrame").src = scUrlToLoad ? "../"+scUrlToLoad : "module_Contenu.html"}, loadSortKey: "ZZloadRootPage"}
+</script>
+ </head>
+ <body style="overflow: hidden; border:none; padding:0px; margin:0px; height:100%;">
+  <iframe id="mainFrame" name="mainFrame" src="" width="100%" height="100%" marginwidth="0" marginheight="0" frameborder="0" allowfullscreen="true" title="Menaces et d&eacute;gradation des agrosyst&egrave;mes et des milieux naturels">
+   <h1 style="position:absolute;top:-10000px;">Menaces et d&eacute;gradation des agrosyst&egrave;mes et des milieux naturels</h1>
+  </iframe>
+ </body>
+</html>
