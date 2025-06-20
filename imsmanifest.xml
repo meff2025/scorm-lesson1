@@ -1,14 +1,154 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" identifier="CC" version="1.3" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd                  http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd                  http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd                  http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd                  http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd">
+<manifest xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" identifier="12" version="1.3" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd                  http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd                  http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd                  http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd                  http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd">
 <metadata>
 <schema>ADL SCORM</schema>
 <schemaversion>2004 3rd Edition</schemaversion>
 </metadata>
-<organizations default="O_CC">
-<organization identifier="O_CC">
-<title><![CDATA[CC]]></title>
-<item identifier="I_sco_yz3a72JnZUhegjTOMkQyYd_n1" identifierref="R_sco_yz3a72JnZUhegjTOMkQyYd_n1" isvisible="true">
+<organizations default="O_12">
+<organization identifier="O_12">
+<title><![CDATA[12]]></title>
+<item identifier="I_fold_yz3a72JnZUhegjTOMkQyYd_n1" isvisible="true">
 <title><![CDATA[Menaces et dégradation des agrosystèmes et des milieux naturels]]></title>
+<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n1" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n1" isvisible="true">
+<title><![CDATA[Accueil]]></title>
+</item>
+<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n2" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n2" isvisible="true">
+<title><![CDATA[Objectifs]]></title>
+</item>
+<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n3" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n3" isvisible="true">
+<title><![CDATA[Introduction]]></title>
+</item>
+		
+		
+		
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n4" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n4" isvisible="true">
+<title><![CDATA[Prérequis]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n5" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n5" isvisible="true">
+<title><![CDATA[Exercice : Q1(Pré-teste) QCM "Application"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n6" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n6" isvisible="true">
+<title><![CDATA[Exercice : Q2(Pré-teste) QCU "Analyse"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n7" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n7" isvisible="true">
+<title><![CDATA[Exercice : Q3(Pré-teste) "Création/Synthèse"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n8" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n8" isvisible="true">
+<title><![CDATA[Remédiation]]></title>
+</item>
+		<item identifier="I_fold_cLHZF59dRrdiFspJKTSHbi_n1" isvisible="true">
+<title><![CDATA[Caractéristiques et typologie]]></title>
+<item identifier="I_sco_cLHZF59dRrdiFspJKTSHbi_n2" identifierref="R_sco_cLHZF59dRrdiFspJKTSHbi_n2" isvisible="true">
+<title><![CDATA[Introduction]]></title>
+</item>
+				
+				
+				<item identifier="I_sco_cLHZF59dRrdiFspJKTSHbi_n3" identifierref="R_sco_cLHZF59dRrdiFspJKTSHbi_n3" isvisible="true">
+<title><![CDATA[Agriculture extensive]]></title>
+</item>
+				<item identifier="I_sco_cLHZF59dRrdiFspJKTSHbi_n4" identifierref="R_sco_cLHZF59dRrdiFspJKTSHbi_n4" isvisible="true">
+<title><![CDATA[Agriculture intensive]]></title>
+</item>
+				<item identifier="I_sco_cLHZF59dRrdiFspJKTSHbi_n5" identifierref="R_sco_cLHZF59dRrdiFspJKTSHbi_n5" isvisible="true">
+<title><![CDATA[Agriculture vivrière]]></title>
+</item>
+			</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n9" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n9" isvisible="true">
+<title><![CDATA[Exercice : Test 01 QCU "Chap 01"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n10" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n10" isvisible="true">
+<title><![CDATA[Exercice : Test 02 QCM"Chap 01"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n11" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n11" isvisible="true">
+<title><![CDATA[Ressources]]></title>
+</item>
+		<item identifier="I_fold_YL2x643WpmcY43uCMaibpj_n1" isvisible="true">
+<title><![CDATA[Causes de dégradation des systèmes agricoles et des milieux]]></title>
+<item identifier="I_sco_YL2x643WpmcY43uCMaibpj_n2" identifierref="R_sco_YL2x643WpmcY43uCMaibpj_n2" isvisible="true">
+<title><![CDATA[Introduction]]></title>
+</item>
+				
+				
+				<item identifier="I_sco_YL2x643WpmcY43uCMaibpj_n3" identifierref="R_sco_YL2x643WpmcY43uCMaibpj_n3" isvisible="true">
+<title><![CDATA[Les phénomènes naturels]]></title>
+</item>
+				<item identifier="I_sco_YL2x643WpmcY43uCMaibpj_n4" identifierref="R_sco_YL2x643WpmcY43uCMaibpj_n4" isvisible="true">
+<title><![CDATA[Les phénomènes anthropiques]]></title>
+</item>
+			</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n12" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n12" isvisible="true">
+<title><![CDATA[Exercice : Test 01 QCM "Chap 02"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n13" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n13" isvisible="true">
+<title><![CDATA[Exercice : Test 02 QCU "Chap02"]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n14" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n14" isvisible="true">
+<title><![CDATA[Ressources]]></title>
+</item>
+		<item identifier="I_fold_iCY8F5Qn7lhDkCrsniXLKe_n1" isvisible="true">
+<title><![CDATA[Conséquences de dégradation des systèmes agricoles et des milieux naturels et impact sur les ressources naturelles]]></title>
+<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n2" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n2" isvisible="true">
+<title><![CDATA[Introduction]]></title>
+</item>
+				
+				
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n3" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n3" isvisible="true">
+<title><![CDATA[Les écosystèmes littoraux et marins]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n4" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n4" isvisible="true">
+<title><![CDATA[Les écosystèmes humides]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n5" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n5" isvisible="true">
+<title><![CDATA[Les écosystèmes forestiers]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n6" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n6" isvisible="true">
+<title><![CDATA[Les écosystème steppiques]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n7" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n7" isvisible="true">
+<title><![CDATA[Les Écosystème oasiens]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n8" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n8" isvisible="true">
+<title><![CDATA[Les Écosystème sahariens]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n9" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n9" isvisible="true">
+<title><![CDATA[Les changements climatiques]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n10" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n10" isvisible="true">
+<title><![CDATA[Exercice : Test 01 QCU "Chap 03"]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n11" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n11" isvisible="true">
+<title><![CDATA[Exercice : Test 02 QCU "Chap 03"]]></title>
+</item>
+				<item identifier="I_sco_iCY8F5Qn7lhDkCrsniXLKe_n12" identifierref="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n12" isvisible="true">
+<title><![CDATA[Ressources]]></title>
+</item>
+			</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n15" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n15" isvisible="true">
+<title><![CDATA[Test Final (10pts)]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n16" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n16" isvisible="true">
+<title><![CDATA[Exercice : QCM (2pts)]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n17" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n17" isvisible="true">
+<title><![CDATA[Exercice : QCU (2pts)]]></title>
+</item>
+		<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n18" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n18" isvisible="true">
+<title><![CDATA[Exercice : QCU (2pts)]]></title>
+</item>
+		
+		
+	<item identifier="I_sco_mgAwg89lC4gFXV16zZ7coi_n19" identifierref="R_sco_mgAwg89lC4gFXV16zZ7coi_n19" isvisible="true">
+<title><![CDATA[Conclusion]]></title>
+</item>
+</item>
+<item identifier="I_fold_yz3a72JnZUhegjTOMkQyYd_n2" isvisible="true">
+<title><![CDATA[Outils]]></title>
+<item identifier="I_sco_yz3a72JnZUhegjTOMkQyYd_n3" identifierref="R_sco_yz3a72JnZUhegjTOMkQyYd_n3" isvisible="true">
+<title><![CDATA[Glossaire]]></title>
+</item>
+<item identifier="I_sco_yz3a72JnZUhegjTOMkQyYd_n4" identifierref="R_sco_yz3a72JnZUhegjTOMkQyYd_n4" isvisible="true">
+<title><![CDATA[Bibliographie]]></title>
+</item>
 </item>
 <imsss:sequencing>
 <imsss:controlMode choice="true" choiceExit="true" flow="true" forwardOnly="false"/>
@@ -16,7 +156,135 @@
 </organization>
 </organizations>
 <resources>
-<resource identifier="R_sco_yz3a72JnZUhegjTOMkQyYd_n1" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-a.html">
+<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n1" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-a.html">
+<dependency identifierref="fullResList"/>
+</resource>
+<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n2" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-b.html">
+<dependency identifierref="fullResList"/>
+</resource>
+<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n3" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-c.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		
+		
+		
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n4" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-d.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n5" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-e.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n6" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-f.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n7" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-g.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n8" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-h.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_cLHZF59dRrdiFspJKTSHbi_n2" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-i.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				
+				
+				<resource identifier="R_sco_cLHZF59dRrdiFspJKTSHbi_n3" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-j.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_cLHZF59dRrdiFspJKTSHbi_n4" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-k.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_cLHZF59dRrdiFspJKTSHbi_n5" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-l.html">
+<dependency identifierref="fullResList"/>
+</resource>
+			
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n9" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-m.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n10" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-n.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n11" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-o.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_YL2x643WpmcY43uCMaibpj_n2" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-p.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				
+				
+				<resource identifier="R_sco_YL2x643WpmcY43uCMaibpj_n3" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-q.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_YL2x643WpmcY43uCMaibpj_n4" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-r.html">
+<dependency identifierref="fullResList"/>
+</resource>
+			
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n12" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-s.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n13" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-t.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n14" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-u.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n2" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-v.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				
+				
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n3" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-w.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n4" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-x.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n5" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-y.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n6" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-z.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n7" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-ab.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n8" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-bb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n9" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-cb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n10" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-db.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n11" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-eb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+				<resource identifier="R_sco_iCY8F5Qn7lhDkCrsniXLKe_n12" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-fb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+			
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n15" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-gb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n16" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-hb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n17" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-ib.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n18" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-jb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+		
+		
+	<resource identifier="R_sco_mgAwg89lC4gFXV16zZ7coi_n19" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-kb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+<resource identifier="R_sco_yz3a72JnZUhegjTOMkQyYd_n3" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-lb.html">
+<dependency identifierref="fullResList"/>
+</resource>
+<resource identifier="R_sco_yz3a72JnZUhegjTOMkQyYd_n4" type="webcontent" adlcp:scormType="sco" href="co/ctx_item-mb.html">
 <dependency identifierref="fullResList"/>
 </resource>
 <resource identifier="fullResList" type="webcontent" adlcp:scormType="asset">
@@ -26,6 +294,44 @@
 <file href="co/Contenu_web_3.html"/>
 <file href="co/court_04.html"/>
 <file href="co/ctx_item-a.html"/>
+<file href="co/ctx_item-ab.html"/>
+<file href="co/ctx_item-b.html"/>
+<file href="co/ctx_item-bb.html"/>
+<file href="co/ctx_item-c.html"/>
+<file href="co/ctx_item-cb.html"/>
+<file href="co/ctx_item-d.html"/>
+<file href="co/ctx_item-db.html"/>
+<file href="co/ctx_item-e.html"/>
+<file href="co/ctx_item-eb.html"/>
+<file href="co/ctx_item-f.html"/>
+<file href="co/ctx_item-fb.html"/>
+<file href="co/ctx_item-g.html"/>
+<file href="co/ctx_item-gb.html"/>
+<file href="co/ctx_item-h.html"/>
+<file href="co/ctx_item-hb.html"/>
+<file href="co/ctx_item-i.html"/>
+<file href="co/ctx_item-ib.html"/>
+<file href="co/ctx_item-j.html"/>
+<file href="co/ctx_item-jb.html"/>
+<file href="co/ctx_item-k.html"/>
+<file href="co/ctx_item-kb.html"/>
+<file href="co/ctx_item-l.html"/>
+<file href="co/ctx_item-lb.html"/>
+<file href="co/ctx_item-m.html"/>
+<file href="co/ctx_item-mb.html"/>
+<file href="co/ctx_item-n.html"/>
+<file href="co/ctx_item-o.html"/>
+<file href="co/ctx_item-p.html"/>
+<file href="co/ctx_item-q.html"/>
+<file href="co/ctx_item-r.html"/>
+<file href="co/ctx_item-s.html"/>
+<file href="co/ctx_item-t.html"/>
+<file href="co/ctx_item-u.html"/>
+<file href="co/ctx_item-v.html"/>
+<file href="co/ctx_item-w.html"/>
+<file href="co/ctx_item-x.html"/>
+<file href="co/ctx_item-y.html"/>
+<file href="co/ctx_item-z.html"/>
 <file href="co/grain_04.html"/>
 <file href="co/grain_05.html"/>
 <file href="co/grain_07.html"/>
@@ -34,7 +340,6 @@
 <file href="co/grain_12.html"/>
 <file href="co/grain_13.html"/>
 <file href="co/module_Contenu.html"/>
-<file href="co/module_Contenu.txt"/>
 <file href="co/module_Contenu_1.html"/>
 <file href="co/module_Contenu_10.html"/>
 <file href="co/module_Contenu_11.html"/>
@@ -45,10 +350,7 @@
 <file href="co/module_Contenu_16.html"/>
 <file href="co/module_Contenu_17.html"/>
 <file href="co/module_Contenu_18.html"/>
-<file href="co/module_Contenu_19.html"/>
 <file href="co/module_Contenu_2.html"/>
-<file href="co/module_Contenu_20.html"/>
-<file href="co/module_Contenu_21.html"/>
 <file href="co/module_Contenu_3.html"/>
 <file href="co/module_Contenu_4.html"/>
 <file href="co/module_Contenu_5.html"/>
@@ -67,20 +369,14 @@
 <file href="co/qcu_08.html"/>
 <file href="lib-md/s_annotSvc/annotSvc.js"/>
 <file href="lib-md/s_lmsHack/lmsHack.js"/>
-<file href="lib-md/s_markedPages/markedPage.js"/>
-<file href="lib-md/s_scorm.js"/>
-<file href="lib-md/s_scPreload/scPreload.js"/>
-<file href="lib-md/s_scSearch/scSearch.js"/>
+<file href="lib-md/s_scormMulti.js"/>
 <file href="lib-md/w_annotBtn/annotMgr.js"/>
 <file href="lib-md/w_dynSizes/dynSizes.js"/>
 <file href="lib-md/w_html5shiv/html5shiv.js"/>
-<file href="lib-md/w_markedPageBtn/markedPageMgr.js"/>
-<file href="lib-md/w_outMgr/outMgr.js"/>
 <file href="lib-md/w_scCodeMgr/scCodeMgr.css"/>
 <file href="lib-md/w_scCodeMgr/scCodeMgr.js"/>
 <file href="lib-md/w_scImgMgr/scImgMgr.css"/>
 <file href="lib-md/w_scImgMgr/scImgMgr.js"/>
-<file href="lib-md/w_searchMgr/searchMgr.js"/>
 <file href="lib-md/w_tplMgr/iscroll.js"/>
 <file href="lib-md/w_tplMgr/tplMgr.js"/>
 <file href="lib-sc/assmntDhtmlTransf/empty.gif"/>
@@ -117,7 +413,6 @@
 <file href="res/image_17.jpg"/>
 <file href="res/image_18.jpg"/>
 <file href="res/image_18.png"/>
-<file href="res/page_de_gader.png"/>
 <file href="skin/aideMemoire.txt"/>
 <file href="skin/css/annot.css"/>
 <file href="skin/css/assmnt.css"/>
@@ -395,6 +690,8 @@
 <file href="skin/player/flv.txt"/>
 <file href="skin/player/mp3.txt"/>
 <file href="skin/player/mp4.txt"/>
+<file href="stylesSco/ie6_scorm_page.css"/>
+<file href="stylesSco/scorm_page.css"/>
 </resource>
 </resources>
 </manifest>
